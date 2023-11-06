@@ -1,7 +1,7 @@
 import java.util.*;
 class runing
 {
-   public  void  Run()
+    void  Run()
     {
         System.out.println("Hello world");
     }
